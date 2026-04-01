@@ -1,0 +1,27 @@
+{
+  "name": "orinx-contracts-flow",
+  "version": "1.0.0",
+  "description": "Orinx Stealth Payment Contracts on Flow Blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "hardhat test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orinx-org/orinx-contracts-pl_genesis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/orinx-org/orinx-contracts-pl_genesis/issues"
+  },
+  "homepage": "https://github.com/orinx-org/orinx-contracts-pl_genesis#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@openzeppelin/contracts": "^5.4.0",
+    "dotenv": "^16.4.5",
+    "hardhat": "^2.22.0"
+  }
+}
